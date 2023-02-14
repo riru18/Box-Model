@@ -70,8 +70,10 @@ li {
 }
 
 .nav-logo {
+    width: 200px;
+    height: 20px;
     float: left;
-    margin-right: 50px;
+    margin-right: 10%px;
 }
 
 .nav-link {
