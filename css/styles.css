@@ -1,0 +1,156 @@
+body {
+    font-family: 'Arial';
+    margin: 0;
+    text-align: left;
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+.dot-text {
+    color: green;
+}
+
+.search-text {
+    font-family: serif;
+    text-decoration: underline;
+}
+
+.left-text {
+    margin: auto auto auto 5%;
+
+}
+
+.right-text {
+    color: gray;
+    margin: auto 5% auto auto;
+}
+
+.right-text:hover {
+    color: white;
+    margin: auto 5% auto auto;
+}
+
+.upper-middle-text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.upper-text {
+    margin: auto auto 15% 5%;
+    width: 60%;
+}
+
+.intro-text {
+    margin: 1% auto 1% auto;
+    font-family: serif;
+    font-size:xx-large;
+}
+
+.upper-box {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+.nav-list {
+    margin-left: auto;
+}
+
+.nav-text {
+    margin-right: auto;
+    font-weight: bolder;
+}
+
+.nav-logo {
+    float: left;
+    margin-right: 50px;
+}
+
+.nav-link {
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.nav-icon {
+    height: 10px;
+    width: 10px;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.middle-box {
+    margin-top: 7%;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.bottom-text {
+    margin: 0;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 400%;
+}
+
+.bottom-box-text {
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+
+.nav-link-bottom {
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.orange {
+    color: orange;
+}
+
+.bottom-box-text-red {
+    width: 50%;
+    margin: auto auto auto 0;
+    font-size: 130%;
+}
+
+.red {
+    color: rgba(255, 55, 0, 0.878);
+}
+
+.text-underline {
+    text-decoration: underline;
+    text-decoration-color: rgba(255, 55, 0, 0.878);
+}
+
+.bottom-box {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.bottom-box-text-final {
+    width: 80%;
+    margin: auto 0 auto auto;
+    margin-top: 1%;
+    font-size: 80%;
+}
+
+.image-box {
+    margin-top: 5%;
+    width: 100%;
+    height: auto;
+}
